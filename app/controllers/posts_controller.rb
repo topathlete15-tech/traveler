@@ -7,6 +7,7 @@ class PostsController < ApplicationController
     post = Post.new(post_params)
     post.save
     redirect_to post_path(post.id)
+    post.user_id = current_user.id
   end
 
   def index
