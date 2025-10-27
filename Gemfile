@@ -65,7 +65,6 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
-<<<<<<< HEAD
 
 gem "refile", require: "refile/rails", github: 'manfe/refile'
 
@@ -81,5 +80,3 @@ gem "sassc-rails"
 gem 'devise'
 
 gem 'kaminari'
-=======
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)

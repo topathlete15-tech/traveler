@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 GIT
   remote: https://github.com/manfe/refile.git
   revision: 46b4178654e60bb5846b1423acf6d0740cdecc25
@@ -8,8 +7,6 @@ GIT
       rest-client (~> 2)
       sinatra (~> 2.0.0.beta2)
 
-=======
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
 GEM
   remote: https://rubygems.org/
   specs:
@@ -93,20 +90,14 @@ GEM
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
     base64 (0.3.0)
-<<<<<<< HEAD
     bcrypt (3.1.20)
-=======
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     benchmark (0.4.1)
     bigdecimal (3.2.3)
     bindex (0.8.1)
     bootsnap (1.18.6)
       msgpack (~> 1.2)
-<<<<<<< HEAD
     bootstrap (5.3.5)
       popper_js (>= 2.11.8, < 3)
-=======
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     builder (3.3.0)
     capybara (3.40.0)
       addressable
@@ -124,7 +115,6 @@ GEM
     debug (1.11.0)
       irb (~> 1.10)
       reline (>= 0.3.8)
-<<<<<<< HEAD
     devise (4.9.4)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
@@ -142,13 +132,6 @@ GEM
     http-accept (1.7.0)
     http-cookie (1.1.0)
       domain_name (~> 0.5)
-=======
-    drb (2.2.3)
-    erb (5.0.2)
-    erubi (1.13.1)
-    globalid (1.3.0)
-      activesupport (>= 6.1)
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
     importmap-rails (2.2.2)
@@ -163,7 +146,6 @@ GEM
     jbuilder (2.14.1)
       actionview (>= 7.0.0)
       activesupport (>= 7.0.0)
-<<<<<<< HEAD
     jquery-rails (4.6.0)
       rails-dom-testing (>= 1, < 3)
       railties (>= 4.2.0)
@@ -180,8 +162,6 @@ GEM
       activerecord
       kaminari-core (= 1.2.2)
     kaminari-core (1.2.2)
-=======
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     logger (1.7.0)
     loofah (2.24.1)
       crass (~> 1.0.2)
@@ -193,7 +173,6 @@ GEM
       net-smtp
     marcel (1.1.0)
     matrix (0.4.3)
-<<<<<<< HEAD
     mime-types (3.7.0)
       logger
       mime-types-data (~> 3.2025, >= 3.2025.0507)
@@ -204,11 +183,6 @@ GEM
     msgpack (1.8.0)
     mustermann (1.1.2)
       ruby2_keywords (~> 0.0.1)
-=======
-    mini_mime (1.1.5)
-    minitest (5.25.5)
-    msgpack (1.8.0)
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     mutex_m (0.3.0)
     net-imap (0.5.10)
       date
@@ -219,20 +193,14 @@ GEM
       timeout
     net-smtp (0.5.1)
       net-protocol
-<<<<<<< HEAD
     netrc (0.11.0)
-=======
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     nio4r (2.7.4)
     nokogiri (1.18.10-x64-mingw-ucrt)
       racc (~> 1.4)
     nokogiri (1.18.10-x86_64-linux-gnu)
       racc (~> 1.4)
-<<<<<<< HEAD
     orm_adapter (0.5.0)
     popper_js (2.11.8)
-=======
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     pp (0.6.2)
       prettyprint
     prettyprint (0.2.0)
@@ -243,7 +211,6 @@ GEM
     puma (7.0.4)
       nio4r (~> 2.0)
     racc (1.8.1)
-<<<<<<< HEAD
     rack (2.2.18)
     rack-protection (2.0.8.1)
       rack
@@ -254,16 +221,6 @@ GEM
     rackup (1.0.1)
       rack (< 3)
       webrick
-=======
-    rack (3.2.1)
-    rack-session (2.1.1)
-      base64 (>= 0.1.0)
-      rack (>= 3.0.0)
-    rack-test (2.2.0)
-      rack (>= 1.3)
-    rackup (2.2.1)
-      rack (>= 3)
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     rails (7.1.5.2)
       actioncable (= 7.1.5.2)
       actionmailbox (= 7.1.5.2)
@@ -297,7 +254,6 @@ GEM
     rdoc (6.14.2)
       erb
       psych (>= 4.0.0)
-<<<<<<< HEAD
     refile-mini_magick (0.2.0)
       mini_magick (~> 4.0)
       refile (~> 0.5)
@@ -323,13 +279,6 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-=======
-    regexp_parser (2.11.3)
-    reline (0.6.2)
-      io-console (~> 0.5)
-    rexml (3.4.4)
-    rubyzip (3.1.1)
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     securerandom (0.4.1)
     selenium-webdriver (4.35.0)
       base64 (~> 0.2)
@@ -337,14 +286,11 @@ GEM
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2, < 4.0)
       websocket (~> 1.0)
-<<<<<<< HEAD
     sinatra (2.0.8.1)
       mustermann (~> 1.0)
       rack (~> 2.0)
       rack-protection (= 2.0.8.1)
       tilt (~> 2.0)
-=======
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     sprockets (4.2.2)
       concurrent-ruby (~> 1.0)
       logger
@@ -359,10 +305,7 @@ GEM
       railties (>= 6.0.0)
     stringio (3.1.7)
     thor (1.4.0)
-<<<<<<< HEAD
     tilt (2.6.1)
-=======
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     timeout (0.4.3)
     turbo-rails (2.0.17)
       actionpack (>= 7.1.0)
@@ -371,20 +314,14 @@ GEM
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2025.2)
       tzinfo (>= 1.0.0)
-<<<<<<< HEAD
     warden (1.2.9)
       rack (>= 2.0.9)
-=======
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     web-console (4.2.1)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
       railties (>= 6.0.0)
-<<<<<<< HEAD
     webrick (1.9.1)
-=======
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
     websocket (1.2.11)
     websocket-driver (0.8.0)
       base64
@@ -400,7 +337,6 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
-<<<<<<< HEAD
   bootstrap (~> 5.3.0)
   capybara
   debug
@@ -415,14 +351,6 @@ DEPENDENCIES
   refile!
   refile-mini_magick
   sassc-rails
-=======
-  capybara
-  debug
-  importmap-rails
-  jbuilder
-  puma (>= 5.0)
-  rails (~> 7.1.3, >= 7.1.3.2)
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
   selenium-webdriver
   sprockets-rails
   sqlite3 (~> 1.4)
