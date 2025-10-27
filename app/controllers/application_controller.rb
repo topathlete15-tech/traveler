@@ -1,4 +1,5 @@
 class ApplicationController < ActionController::Base
+<<<<<<< HEAD
     before_action :configure_permitted_parameters, if: :devise_controller?
 
     protected
@@ -9,4 +10,6 @@ class ApplicationController < ActionController::Base
     def after_sign_in_path_for(resource)
         posts_path
     end
+=======
+>>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
 end
