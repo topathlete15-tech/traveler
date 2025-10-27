@@ -32,8 +32,4 @@ environment ENV.fetch("RAILS_ENV") { "development" }
 pidfile ENV.fetch("PIDFILE") { "tmp/pids/server.pid" }
 
 # Allow puma to be restarted by `bin/rails restart` command.
-<<<<<<< HEAD
 # plugin :tmp_restart
-=======
-plugin :tmp_restart
->>>>>>> e2dc2d7 (ようやくonedriveの中にあったリポジトリをクローンでコピーし、連携ができた)
